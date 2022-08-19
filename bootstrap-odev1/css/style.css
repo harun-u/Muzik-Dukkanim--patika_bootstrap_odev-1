@@ -1,0 +1,122 @@
+body{
+    background-color: #E9ECEF;
+}
+.head a{
+    color: darkred;
+
+}
+.head a:hover{
+    color: darkred;
+    text-decoration: none;
+}
+.head {
+    list-style: none;
+}
+.head li a{
+    float: left;
+    color: white;
+    margin-right: 20%;
+    font-size: 20px;
+    margin-top: 14px;
+}
+
+.head li a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.container{
+    margin-top: 80px;
+}
+
+.index_article1{
+    text-align: center;
+}
+
+.index_article1 h1{
+    font-size: 70px;
+    color: red;
+}
+.index_article2{
+    text-align: center;
+}
+.index_article2 ul {
+   list-style-position: inside;
+}
+
+.index_article2 h2{
+    color: darkkhaki;
+}
+
+.article1_p{
+    font-size: 25px;
+}
+
+.buton_index{
+    font-size: 24px !important;
+}
+
+.about-us_article{
+    padding: 5px ;
+    margin-left: 5px ;
+}
+
+.about-us_article h1{
+    font-size: 70px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.about-us_article p{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.about-us_article h2{
+    color: rgb(190, 156, 1);
+}
+
+.card{
+    margin-bottom: 10px;
+}
+
+.product_head{
+    font-size:70px;
+    text-align: center;
+    margin-top: -50px;
+}
+
+.card-text{
+    display: inline;
+    padding: 8px 15px;
+    width: auto;
+    text-align: center;
+    border-radius: 10px;
+    background-color: gray;
+    color: white;
+}
+
+.btn-card{
+    display: inline;
+    padding: 8px 15px;
+    width: auto;
+    text-align: center;
+    border-radius: 10px;
+    background-color: gray;
+    color: white;   
+   
+}
+
+.btn-card a{
+    right: 0;
+}
+
+.btn-card:hover{
+    transition: 0.5s;
+    text-decoration: none;
+    background-color: rgb(50, 119, 247);
+    color: white;
+    padding: 8px 30px;
+    
+}
